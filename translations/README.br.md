@@ -14,7 +14,7 @@ Entrega: 25/04/23
 # ❂ Aqui você vai achar:
  ✮ _Lista de exercicios resolvidos com ajuda de algoritmos_
  
- ✮ _Listas de exercicios propostos e sem algoritmos_
+ ✮ _Java_
 
 ![6c27c15cf1549c4fe2fb9ace0944bc79](https://user-images.githubusercontent.com/125154278/233782280-1bfe4835-1a80-4664-b5dc-ec54a978e157.gif)
 
