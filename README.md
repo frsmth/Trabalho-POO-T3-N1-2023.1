@@ -1,6 +1,6 @@
 # ❂ Trabalho-POO-T3-N1-2023.1
 
-Bem-vindos ao nosso último repositório! Aqui você encontrará as questões respondidas da 3° lista apresentada! Depois de muito trabalho, chegamos finalmente ao final da primeira avaliação, agradecemos pela atenção! 
+Bem-vindos ao nosso último repositório! Aqui você encontrará as questões respondidas da 3° lista apresentada! Depois de muito trabalho, chegamos finalmente ao final da primeira avaliação, agradecemos pela atenção! Adiante, você poderá ler este README em outras línguas 🇺🇲🇪🇸🇫🇷🇩🇪!
 
 ![22fd8f971bd991c10c143700f2949d72](https://user-images.githubusercontent.com/125154278/233783063-228d5307-d3ef-4625-958a-253f5eb26b6c.gif)
 
