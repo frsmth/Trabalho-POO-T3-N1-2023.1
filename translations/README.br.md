@@ -9,7 +9,7 @@ Professor: Roger Sarmento
 
 Entrega: 25/04/23
 
-![02a635762c6328bc10850b805e0c8c69](https://user-images.githubusercontent.com/125154278/233782272-72ef87eb-62c9-4ce2-8a94-41fd423b8026.gif)
+![38d3fd33602bd9186b0a4fa1e64280db](https://user-images.githubusercontent.com/125154278/233784867-0340add5-2f5e-4b5d-aadd-368fc372ac9e.gif)
 
 # ❂ Aqui você vai achar:
  ✮ _Lista de exercicios resolvidos com ajuda de algoritmos_
