@@ -13,7 +13,7 @@ Lieferung: 25/04/23
 ### ❂ Hier finden Sie:
   ✮ _Liste der Übungen, die mit Hilfe von algoritmos_ gelöst wurden
  
- ✮ _Listen der vorgeschlagenen Übungen und ohne algoritmos_
+ ✮ _Java_
  
 ![6c27c15cf1549c4fe2fb9ace0944bc79](https://user-images.githubusercontent.com/125154278/233782280-1bfe4835-1a80-4664-b5dc-ec54a978e157.gif)
   
