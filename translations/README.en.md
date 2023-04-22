@@ -14,8 +14,6 @@ Due date: 25/04/23
 ### ❂ Here you will find:
 ✮ List of exercises solved with the help of algorithms
 
-✮ Lists of proposed exercises and without algorithms
-
 ![6c27c15cf1549c4fe2fb9ace0944bc79](https://user-images.githubusercontent.com/125154278/233782280-1bfe4835-1a80-4664-b5dc-ec54a978e157.gif)
 
 ### ❂ Collaborators:
