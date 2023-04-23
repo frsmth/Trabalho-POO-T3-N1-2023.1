@@ -1,7 +1,9 @@
 
 
-<h3 align = center> Aqui se encontra a Lista de Questões Resolvidas com Algoritmo <h3 align = center>
+<h3 align = center> Aqui se encontra a Lista de Questões Resolvidas com Algoritmo: <h3 align = center>
 
+![ccb88559d6509fe72a36151d3eb8e558](https://user-images.githubusercontent.com/125154278/233858577-e7f68def-2472-4433-b9f2-1a76f13db436.gif)
+  
 | Questão | Enunciado |
 | --- | --- |
 | 03 | ![image](https://user-images.githubusercontent.com/128996657/233856591-00cec898-e6e2-4f58-9aa4-6e93f33cc2c6.png) |
