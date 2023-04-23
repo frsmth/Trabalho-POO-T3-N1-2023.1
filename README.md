@@ -24,9 +24,9 @@ Entrega: 25/04/23
 ![6c27c15cf1549c4fe2fb9ace0944bc79](https://user-images.githubusercontent.com/125154278/233782280-1bfe4835-1a80-4664-b5dc-ec54a978e157.gif)
 
 # ❂ Colaboradores:
- ✦ Antônio Abner 
+ ✦ Antônio Abner [https://github.com/frsmth]
  
- ✦ Letícia Vitória
+ ✦ Letícia Vitória [https://github.com/mareshbard]
 
 ![9aeb8c78a884a6de72d1e2b063bb13c6](https://user-images.githubusercontent.com/125154278/233782299-98976f4e-a0b2-4a3f-a5eb-d61df7eb0a3b.gif)
 
